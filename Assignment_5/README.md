@@ -1,22 +1,30 @@
-## Assignment 4: Number 1
-[Math.ceil & math.floor in python](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_4/t1_ceil%26floor.py)
-![README_T1](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/4e828368-602e-4c91-8b3a-24e42cbc1fd2)
+## Assignment 5: Number 1
+[Organizing the repository in github](https://github.com/Tahahokmabadi/python_assignments/tree/main)
+
 __________
-## Assignment 4: Number 2
-[Making an README.md file]()
+## Assignment 5: Number 2
+[Title(), Istitle(), Find(), Replace(), and ... in python](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_5/t2_title_and_more.py)
+![README_T2](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/12078821-e072-4de4-bde5-cbb49529b3a3)
+
 __________
-## Assignment 4 : Number 3
-[Nano calculator with operators such as +, -, *, /, //, ** & ...](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_4/t3_calculator.py)
-![README_T3](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/fa3af330-2726-4729-95aa-d28ff4f8ccf6)
+## Assignment 5 : Number 3
+[Received number has more odds or evens](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_5/t3_odd_and-even.py)
+![README_T3](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/5378bcb2-de1b-49f1-ac0f-8947366a2ef7)
+
 __________
-## Assignment 4: Number 4
-[Signing in using username and password](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_4/t4_sign-in.py)
-![README_T4](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/262cae73-2ec4-4547-8415-df4b2d60c7f4)
+## Assignment 5: Number 4
+[Weather unit convertor(contains fahrenheit, celsius ,and kelvin)](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_5/t4_weather_unit_convertor.py)
+![README_T4](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/40335b13-7787-4a5b-b776-e075aa5b8d7c)
+
 __________
-## Assignment 4: Number 5
-[Calculates the BMI by a persones height and weight](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_4/t5_BMI.py)
-![README_T5](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/c4644361-ce68-4729-a9d7-9dadb67627c1)
-__________
-## Assignment 4: Number 6
-[Checks whether the given number is odd or even](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_4/t6_odd_or_even.py)
-![README_T6](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/008fd19c-92e9-4764-a0b3-f10a95e9e2f3)
+## Assignment 5: Number 5
+[Multiple of 7 or not](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_5/t5_multiple_of_7.py)
+![README_T5](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/34f3bd30-876d-4a8a-85ab-05c71ac2ac0c)
+
+this program receives a number and it determines whether it is a multiple of 7 or not; and if it is not a multiple of 7, it displays the first number greater than that number which is a multiple of 7.
+
+_________
+## Assignment 5: Number 6
+[Capitalizing 10 name and ...](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_5/t6_names.py)
+![README_T6](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/c2360c0b-e028-4b7f-a811-4a44ff2eaff9)
+
