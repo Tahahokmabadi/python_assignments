@@ -1,0 +1,27 @@
+n1 = str(input("Enter the first name: "))
+n2 = str(input("Enter the second name: "))
+n3 = str(input("Enter the third name: "))
+n4 = str(input("Enter the fourth name: "))
+n5 = str(input("Enter the fifth name: "))
+n6 = str(input("Enter the sixth name: "))
+n7 = str(input("Enter the seventh name: "))
+n8 = str(input("Enter the eighth name: "))
+n9 = str(input("Enter the ninth name: "))
+n10 = str(input("Enter the tenth name: "))
+
+print(n1.title())
+print(n2.title())
+print(n3.title())
+print(n4.title())
+print(n5.title())
+print(n6.title())
+print(n7.title())
+print(n8.title())
+print(n9.title())
+print(n10.title())
+
+
+character = str(input("Enter a character: "))
+n_total = str(n1+n2+n3+n4+n5+n6+n7+n8+n9+n10)
+
+print("Total number of", character +"'s in these ten names: ",n_total.count(character))
