@@ -19,6 +19,6 @@ __________
 
 __________
 ## Assignment 6: Number 5
-[reverses the given sentence and replace spaces with "*"](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_6/t5_reversed_sentence.py)
+[reverses the given sentence and also replaces spaces with "*"](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_6/t5_reversed_sentence.py)
 ![README_T5](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/4f6f74a2-3237-4177-b730-24e0773315a8)
 
