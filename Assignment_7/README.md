@@ -8,6 +8,4 @@ __________
 __________
 ## Assignment 7 : Number 3
 [atm password checker](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_7/t3_atm-password.py)
-![README_T3](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/dafdc3b2-af5a-407f-91c7-871f954a72ae)
-
-
+![README_T3](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/bb6db68f-9dac-4704-acfa-ecdac57b63f5)
