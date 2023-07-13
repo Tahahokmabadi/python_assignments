@@ -10,7 +10,7 @@ __________
 choice() and choices() in random libary
 __________
 ## Assignment 4: Number 4
-2 player numner guessing game
+2 player number guessing game
 __________
 ## Assignment 4: Number 5
 number guessing game
