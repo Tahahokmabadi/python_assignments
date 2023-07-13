@@ -11,6 +11,7 @@ choice() and choices() in random libary
 __________
 ## Assignment 4: Number 4
 2 player number guessing game
+![README_T4](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/3d87c569-e49d-4b5d-82b3-349a24c8e326)
 __________
 ## Assignment 4: Number 5
 number guessing game
