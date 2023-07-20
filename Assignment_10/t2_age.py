@@ -1,5 +1,4 @@
-from datetime import date
-from datetime import datetime
+from datetime import date, datetime
 
 day = int(input("Enter your day of birth: "))
 month = int(input("Enter your month of birth: "))
