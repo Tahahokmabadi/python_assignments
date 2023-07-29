@@ -1,2 +1,6 @@
 ## Assignment 13: number 1
 [exceptions in python](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_13/exceptions.py)
+__________
+## Assignment 13: number 4
+[IMDB movie ranking](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_13/T4_IMDB_rating.py)
+![README_T4](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/b34bd2f0-863e-4d6d-8ed1-586ff1007e2c)
