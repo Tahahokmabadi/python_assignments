@@ -8,6 +8,8 @@ __________
 __________
 ## Assignment 12: number 3
 [replacing vowels with !](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t3_vowels.py)
+![README_T3](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/95a8477b-8beb-45ba-ba08-119d3f5d7f88)
+
 __________
 ## Assignment 12: number 4
 [tic tac toe game](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t4_tic_tac_toe.py)
@@ -27,3 +29,5 @@ __________
 __________
 ## Assignment 12: number 8
 [n + nn + nnn calculator](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t8_n.py)
+![README_T8](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/d35504c4-721e-4bc8-bd2f-0c906eefa65d)
+
