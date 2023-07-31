@@ -18,8 +18,8 @@ __________
 ![README_T5](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/393febe5-950b-45c3-885b-07b0d33778ff)
 __________
 ## Assignment 12: number 6
-[]()
-
+[diamond with stars](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t6_diamond.py)
+![README_T6](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/8843fddc-ef5f-49b2-9caa-04b13031495e)
 __________
 ## Assignment 12: number 7
 [standard date function](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t7_standard_date.py)
