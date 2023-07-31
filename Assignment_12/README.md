@@ -14,8 +14,8 @@ __________
 ![README_TIC](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/d6e81caf-1690-4ab0-8e47-a0bf9c608c3c)
 __________
 ## Assignment 12: number 5
-[]()
-
+[Multiplication table using array 2d](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t5_array_2d_table.py)
+![README_T5](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/393febe5-950b-45c3-885b-07b0d33778ff)
 __________
 ## Assignment 12: number 6
 []()
