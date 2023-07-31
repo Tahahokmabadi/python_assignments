@@ -13,7 +13,7 @@ __________
 [tic tac toe game](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t4_tic_tac_toe.py)
 ![README_TIC](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/d6e81caf-1690-4ab0-8e47-a0bf9c608c3c)
 __________
-## Asiignment 12: number 5
+## Assignment 12: number 5
 []()
 
 __________
