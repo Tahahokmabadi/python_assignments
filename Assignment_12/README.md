@@ -1,15 +1,13 @@
 ## Assignment 12: number 1
-[counting the upeercase and lowercase characters in a string](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t1-upper_and_lower_counter.py)
+[counting the uppercase and lowercase characters in a string](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t1-upper_and_lower_counter.py)
 ![README_T1](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/6d98c259-7fd0-4200-a74a-e4f071e1c4ba)
 __________
 ## Assignment 12: number 2
-[]()
-
+[x for x in list](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t2_x_for_x_in_list.txt)
 __________
 ## Assignment 12: number 3
 [replacing vowels with !](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t3_vowels.py)
 ![README_T3](https://github.com/Tahahokmabadi/python_assignments/assets/137491279/95a8477b-8beb-45ba-ba08-119d3f5d7f88)
-
 __________
 ## Assignment 12: number 4
 [tic tac toe game](https://github.com/Tahahokmabadi/python_assignments/blob/main/Assignment_12/t4_tic_tac_toe.py)
