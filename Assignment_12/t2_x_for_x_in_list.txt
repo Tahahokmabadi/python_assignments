@@ -1,0 +1,9 @@
+#1
+y = [x for x in scores if x % 3 == 2]
+#2
+newlist = [x for x in fruits if “e” in x]
+
+#1
+هر آیتمی (x) در لیست scores که شرط x % 3 == 2 برایش True باشد را را در لیست y می‌ریزد.
+#2
+هر آیتمی (x) در لیست fruits که داخلش حرف "e" باشد را در در لیست newlist می‌ریزد.
